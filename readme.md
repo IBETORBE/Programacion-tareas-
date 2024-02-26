@@ -5,5 +5,5 @@
 <p>
     <strong>Institución: </strong>Universidad Estatal Amazónica <br>
     <strong>Carrera: </strong>Ingeniería en Tecnologías de la Información y Comunicación <br>
-    <strong>Docente: </strong>Ing. Edwin Gustavo Fernández Sánchez, Mgs. <br>
+    <strong>Docente: </strong>Eestudiante: Melissa Orbe <br>
 </p>
